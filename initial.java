@@ -12,5 +12,6 @@ This is my intial
  After finishing your work you add to you repo ie git add . the . mean all the changes
  After adding changes you commit by git commit -m "i have made these changes or a message readable to the workmates
  After you push changes to the repo ie git push or push to an upstream
- After you merge to the main repository on github
+ 
+ After you merge to the main repository on github ie this is done online
  Then you pull news from main
